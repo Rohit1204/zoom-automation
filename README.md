@@ -1,0 +1,3 @@
+<h1> ZOOM AUTOMATION </h1>
+
+Online classes have become very common for every student in this lockdown period.Our daily schedule has changed from getting ready for school to waiting for meeting link and to enter it and attend the class. to make this schedule easy i made this project.all you have to do is run this project,enter the meeting link and password ,just sit back and relax and you will be automatically redirected into that zoom meeting.
